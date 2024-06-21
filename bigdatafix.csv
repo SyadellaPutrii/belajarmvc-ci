@@ -1,0 +1,501 @@
+age,gender,job_role,province,salary,is_married,is_hereditary,shampoo,is_smoker,education,stress,bald_prob
+27,female,Government Employee,Bengkulu,"7,957,453",1,0,Pantone,1,Bachelor Degree,5,0.61
+53,female,Government Employee,Bandung,"7,633,003",1,0,Pantone,0,Bachelor Degree,7,0.53
+37,female,Employee,Bandung,"6,637,625",1,0,Moonsilk,0,Bachelor Degree,4,0.42
+36,female,Jobless,Palu,"3,624,871",1,0,Deadbuoy,1,Elementary School,9,0.80
+55,female,Government Employee,Palangkaraya,"9,213,032",1,1,Pantone,0,Bachelor Degree,1,0.73
+47,male,Employee,Banda Aceh,"4,508,321",1,0,Shoulder & Head,1,Magister Degree,3,0.54
+34,male,Government Employee,Kupang,"4,765,812",1,1,Moonsilk,0,Bachelor Degree,2,0.59
+40,male,Employee,Sofifi,"18,627,756",1,0,Shoulder & Head,0,Bachelor Degree,1,0.36
+41,male,Employee,Ambon,"19,396,219",1,0,Deadbuoy,1,Senior High School,4,0.61
+26,male,Employee,Tanjungselor,"10,363,501",1,1,Pantone,1,Senior High School,1,0.61
+45,male,Government Employee,Tanjung Pinang,"12,117,177",1,1,Moonsilk,1,Bachelor Degree,3,1.00
+21,male,Employee,Banjarmasin,"6,867,878",1,0,Merpati,1,Bachelor Degree,5,0.61
+33,male,Employee,Denpasar,"4,466,446",1,0,Deadbuoy,1,Bachelor Degree,7,0.45
+54,male,Employee,Mamuju,"11,474,564",1,0,Pantone,1,Bachelor Degree,6,0.76
+38,male,Jobless,Banda Aceh,"10,878,145",1,0,Deadbuoy,0,Bachelor Degree,9,0.93
+38,female,Employee,Kupang,"6,786,868",1,1,Shoulder & Head,1,Junior High School,4,0.61
+49,male,Employee,Pangkalpinang,"7,061,549",1,0,Deadbuoy,1,Doctoral Degree,4,0.61
+39,male,Government Employee,Yogyakarta,"9,326,527",1,1,Pantone,1,Bachelor Degree,10,0.91
+52,male,Government Employee,Mamuju,"10,361,308",1,1,Merpati,0,Senior High School,6,0.82
+27,male,Government Employee,Makassar,"9,426,808",1,0,Moonsilk,1,Junior High School,1,0.51
+29,male,Jobless,Pontianak,"4,157,454",1,1,Moonsilk,0,Magister Degree,9,0.96
+45,male,Employee,Mataram,"6,326,321",1,1,Shoulder & Head,1,Senior High School,1,0.82
+25,female,Government Employee,Manokwari,"6,384,657",1,1,Merpati,1,Senior High School,7,0.81
+24,male,Employee,Serang,"18,100,470",1,0,Deadbuoy,0,Senior High School,5,0.42
+50,male,Government Employee,Tanjung Pinang,"17,167,730",1,0,Pantone,0,Bachelor Degree,8,0.62
+28,male,Government Employee,Palangkaraya,"8,353,227",1,0,Deadbuoy,0,Bachelor Degree,3,0.45
+42,male,Employee,Semarang,"13,475,834",1,1,Shoulder & Head,0,Bachelor Degree,4,0.70
+34,female,Employee,Surabaya,"9,880,872",1,0,Pantone,0,Bachelor Degree,6,0.34
+42,male,Government Employee,Serang,"4,523,667",1,1,Merpati,0,Elementary School,3,0.73
+40,female,Employee,Jakarta,"6,822,557",1,0,Moonsilk,1,Elementary School,10,0.52
+54,male,Employee,Palu,"9,970,289",1,0,Shoulder & Head,1,Magister Degree,3,0.65
+40,female,Employee,Banda Lampung,"6,290,801",1,1,Merpati,0,Junior High School,1,0.41
+45,female,Government Employee,Mamuju,"13,229,733",1,0,Pantone,0,Bachelor Degree,3,0.51
+44,male,Government Employee,Jakarta,"13,562,601",1,1,Moonsilk,0,Bachelor Degree,6,0.83
+43,female,Government Employee,Banjarmasin,"5,764,889",1,0,Shoulder & Head,0,Bachelor Degree,7,0.60
+36,male,Employee,Jayapura,"20,529,525",1,1,Pantone,1,Bachelor Degree,3,0.77
+55,male,Employee,Palembang,"5,952,405",1,0,Merpati,0,Bachelor Degree,2,0.56
+26,female,Government Employee,Palu,"7,954,335",1,1,Shoulder & Head,1,Bachelor Degree,7,0.72
+47,male,Government Employee,Yogyakarta,"14,821,028",1,0,Moonsilk,1,Magister Degree,10,0.74
+55,male,Employee,Denpasar,"6,711,912",1,0,Deadbuoy,0,Bachelor Degree,1,0.62
+19,male,Government Employee,Banda Lampung,"5,756,211",0,0,Pantone,1,Bachelor Degree,1,0.44
+54,male,Employee,Jambi,"8,163,644",1,0,Shoulder & Head,0,Bachelor Degree,4,0.46
+39,male,Government Employee,Pontianak,"7,083,551",1,0,Moonsilk,1,Junior High School,8,0.65
+43,female,Government Employee,Manado,"16,629,901",1,1,Merpati,1,Junior High School,2,0.70
+47,male,Government Employee,Makassar,"11,251,318",1,0,Shoulder & Head,0,Bachelor Degree,4,0.57
+40,male,Employee,Semarang,"12,052,140",1,1,Deadbuoy,1,Bachelor Degree,10,0.77
+52,male,Government Employee,Bengkulu,"18,025,427",1,0,Moonsilk,0,Senior High School,9,0.83
+37,male,Employee,Bengkulu,"12,805,716",1,0,Deadbuoy,1,Senior High School,4,0.53
+49,male,Government Employee,Manado,"5,623,732",1,0,Merpati,0,Senior High School,1,0.53
+47,male,Employee,Bengkulu,"5,230,532",1,0,Moonsilk,0,Bachelor Degree,9,0.56
+42,female,Government Employee,Tanjung Pinang,"7,270,300",1,0,Pantone,0,Senior High School,1,0.43
+63,male,Employee,Semarang,"9,357,450",1,0,Shoulder & Head,0,Bachelor Degree,8,0.71
+51,male,Employee,Medan,"14,343,593",1,0,Moonsilk,1,Magister Degree,5,0.77
+34,female,Government Employee,Ambon,"5,252,954",1,1,Moonsilk,1,Junior High School,2,0.61
+44,female,Government Employee,Mamuju,"5,328,689",1,0,Deadbuoy,0,Senior High School,8,0.56
+54,male,Employee,Banda Lampung,"4,144,909",1,1,Pantone,0,Bachelor Degree,10,0.92
+39,female,Government Employee,Pekanbaru,"4,977,625",1,0,Pantone,1,Bachelor Degree,1,0.44
+37,female,Employee,Medan,"9,552,724",1,0,Pantone,0,Bachelor Degree,3,0.17
+35,male,Government Employee,Bengkulu,"5,551,985",1,0,Merpati,0,Senior High School,7,0.50
+38,male,Employee,Bandung,"10,072,406",1,0,Deadbuoy,0,Magister Degree,9,0.46
+34,male,Government Employee,Banda Lampung,"15,344,417",1,0,Deadbuoy,1,Bachelor Degree,6,0.70
+62,male,Employee,Banda Aceh,"4,426,789",1,0,Shoulder & Head,0,Senior High School,3,0.59
+18,male,Employee,Ambon,"8,932,665",0,1,Deadbuoy,0,Bachelor Degree,9,0.57
+35,male,Government Employee,Pontianak,"8,340,827",1,0,Moonsilk,0,Bachelor Degree,8,0.51
+36,female,Employee,Banda Lampung,"6,183,771",1,0,Moonsilk,0,Bachelor Degree,8,0.38
+29,female,Government Employee,Tanjung Pinang,"14,739,867",1,0,Pantone,0,Senior High School,8,0.50
+50,male,Government Employee,Ambon,"5,278,768",1,0,Merpati,0,Elementary School,3,0.56
+23,male,Employee,Banda Lampung,"10,422,219",1,1,Deadbuoy,0,Bachelor Degree,4,0.52
+49,male,Employee,Surabaya,"6,170,298",1,1,Pantone,0,Bachelor Degree,5,0.66
+33,female,Government Employee,Palu,"8,736,951",1,0,Moonsilk,1,Senior High School,1,0.47
+50,male,Government Employee,Mataram,"10,301,718",1,0,Pantone,0,Bachelor Degree,5,0.64
+43,male,Government Employee,Serang,"12,495,789",1,0,Pantone,1,Senior High School,10,0.89
+35,female,Government Employee,Manado,"5,307,283",1,1,Merpati,1,Bachelor Degree,5,0.72
+22,female,Employee,Manado,"7,673,775",1,0,Merpati,0,Bachelor Degree,7,0.38
+37,male,Government Employee,Denpasar,"10,681,392",1,0,Moonsilk,0,Senior High School,3,0.51
+58,male,Employee,Pangkalpinang,"14,729,246",1,0,Moonsilk,1,Bachelor Degree,7,0.85
+51,male,Government Employee,Manokwari,"6,497,805",1,0,Pantone,0,Senior High School,2,0.65
+50,female,Government Employee,Medan,"7,955,562",1,0,Merpati,1,Junior High School,8,0.61
+18,male,Employee,Serang,"17,677,785",0,0,Shoulder & Head,0,Senior High School,9,0.42
+26,male,Employee,Kendari,"4,019,833",1,0,Moonsilk,1,Bachelor Degree,4,0.41
+36,female,Employee,Pangkalpinang,"6,081,971",1,0,Deadbuoy,0,Bachelor Degree,2,0.22
+33,male,Government Employee,Serang,"6,995,538",1,1,Pantone,0,Bachelor Degree,6,0.77
+37,male,Employee,Kupang,"3,634,633",1,0,Pantone,1,Junior High School,2,0.46
+37,male,Jobless,Banda Aceh,"7,094,840",1,0,Pantone,1,Magister Degree,6,0.82
+36,female,Government Employee,Mataram,"8,953,000",1,1,Pantone,0,Bachelor Degree,4,0.62
+32,female,Government Employee,Gorontalo,"5,860,160",1,0,Merpati,0,Doctoral Degree,4,0.43
+41,female,Employee,Samarinda,"5,372,436",1,0,Deadbuoy,1,Senior High School,5,0.52
+49,male,Government Employee,Mamuju,"7,185,928",1,0,Moonsilk,0,Bachelor Degree,8,0.62
+36,male,Employee,Bandung,"6,802,123",1,0,Shoulder & Head,0,Bachelor Degree,7,0.40
+40,male,Employee,Pangkalpinang,"8,867,421",1,1,Deadbuoy,0,Senior High School,8,0.73
+40,male,Employee,Ambon,"14,903,701",1,0,Merpati,1,Senior High School,6,0.51
+53,male,Employee,Banda Aceh,"14,960,350",1,0,Pantone,0,Bachelor Degree,1,0.63
+56,female,Employee,Sofifi,"8,160,159",1,0,Shoulder & Head,1,Senior High School,4,0.57
+40,male,Government Employee,Palu,"8,116,297",1,0,Pantone,1,Senior High School,6,0.56
+33,male,Employee,Denpasar,"9,144,707",1,1,Pantone,1,Bachelor Degree,4,0.71
+39,male,Government Employee,Jayapura,"4,426,912",1,1,Deadbuoy,1,Elementary School,6,0.83
+31,female,Employee,Semarang,"3,058,593",1,0,Merpati,0,Bachelor Degree,6,0.37
+42,male,Employee,Ambon,"7,352,547",1,0,Deadbuoy,0,Bachelor Degree,3,0.50
+38,male,Government Employee,Mamuju,"7,487,493",1,0,Moonsilk,0,Senior High School,1,0.42
+32,male,Government Employee,Kendari,"9,499,471",1,0,Deadbuoy,0,Bachelor Degree,2,0.43
+51,male,Employee,Jambi,"8,517,313",1,1,Pantone,1,Senior High School,1,0.88
+40,male,Government Employee,Jayapura,"5,352,381",1,0,Moonsilk,1,Junior High School,10,0.69
+25,female,Employee,Serang,"6,431,255",1,0,Deadbuoy,0,Senior High School,8,0.38
+17,male,Government Employee,Kupang,"9,300,775",0,0,Shoulder & Head,1,Bachelor Degree,4,0.43
+23,male,Government Employee,Denpasar,"8,771,301",1,0,Pantone,0,Bachelor Degree,4,0.50
+44,female,Employee,Palu,"12,937,849",1,1,Merpati,1,Senior High School,3,0.70
+36,male,Government Employee,Pontianak,"9,205,297",1,0,Pantone,1,Bachelor Degree,8,0.64
+33,male,Employee,Pekanbaru,"9,796,291",1,0,Shoulder & Head,0,Magister Degree,7,0.52
+25,male,Employee,Bandung,"8,330,981",1,0,Shoulder & Head,0,Bachelor Degree,2,0.33
+30,female,Employee,Yogyakarta,"7,630,874",1,0,Shoulder & Head,0,Bachelor Degree,8,0.40
+32,male,Government Employee,Tanjungselor,"16,744,333",1,0,Pantone,1,Bachelor Degree,1,0.48
+54,male,Government Employee,Mataram,"7,741,196",1,0,Deadbuoy,1,Senior High School,3,0.25
+49,male,Employee,Banda Lampung,"11,943,290",1,0,Shoulder & Head,1,Junior High School,5,0.31
+41,female,Government Employee,Palangkaraya,"5,294,693",1,0,Deadbuoy,0,Bachelor Degree,9,0.59
+53,male,Employee,Makassar,"13,708,100",1,0,Merpati,0,Bachelor Degree,3,0.56
+39,male,Government Employee,Tanjung Pinang,"6,381,813",1,0,Deadbuoy,0,Bachelor Degree,1,0.43
+30,male,Employee,Jayapura,"8,900,589",1,0,Pantone,1,Bachelor Degree,4,0.51
+11,female,Government Employee,Palu,"6,188,549",0,0,Moonsilk,0,Senior High School,10,0.37
+35,female,Employee,Manokwari,"7,251,103",1,0,Pantone,1,Senior High School,4,0.46
+37,female,Employee,Mamuju,"3,137,547",1,0,Pantone,0,Bachelor Degree,4,0.22
+38,male,Government Employee,Semarang,"7,614,162",1,1,Shoulder & Head,0,Bachelor Degree,5,0.70
+42,female,Employee,Kendari,"8,253,269",1,0,Merpati,1,Bachelor Degree,4,0.53
+37,male,Employee,Gorontalo,"7,430,916",1,0,Shoulder & Head,0,Bachelor Degree,7,0.45
+52,male,Employee,Jambi,"6,260,748",1,0,Deadbuoy,1,Junior High School,5,0.72
+31,male,Jobless,Tanjungselor,"16,559,451",1,0,Moonsilk,1,Junior High School,9,0.98
+47,male,Employee,Jakarta,"5,509,538",1,0,Shoulder & Head,0,Magister Degree,7,0.53
+46,male,Employee,Jakarta,"3,766,661",1,0,Pantone,0,Bachelor Degree,2,0.54
+35,female,Government Employee,Makassar,"13,178,574",1,1,Deadbuoy,0,Senior High School,9,0.75
+55,female,Employee,Samarinda,"6,626,581",1,0,Deadbuoy,1,Bachelor Degree,10,0.62
+34,male,Employee,Bandung,"6,155,234",1,0,Moonsilk,0,Bachelor Degree,3,0.36
+48,male,Government Employee,Palu,"8,326,774",1,0,Moonsilk,1,Senior High School,3,0.70
+48,female,Employee,Jakarta,"5,888,164",1,1,Deadbuoy,1,Doctoral Degree,2,0.60
+27,male,Government Employee,Tanjungselor,"9,137,886",1,1,Moonsilk,0,Bachelor Degree,8,0.69
+31,male,Employee,Banda Aceh,"6,189,961",1,1,Shoulder & Head,0,Bachelor Degree,2,0.42
+39,male,Employee,Medan,"9,853,434",1,0,Pantone,0,Senior High School,8,0.59
+47,male,Government Employee,Tanjungselor,"13,147,728",1,0,Pantone,0,Magister Degree,3,0.52
+45,male,Government Employee,Surabaya,"6,133,342",1,0,Deadbuoy,1,Bachelor Degree,4,0.70
+34,male,Government Employee,Yogyakarta,"12,454,429",1,0,Deadbuoy,1,Bachelor Degree,3,0.51
+29,male,Employee,Bandung,"11,677,105",1,0,Shoulder & Head,0,Bachelor Degree,5,0.44
+41,male,Government Employee,Palembang,"11,860,225",1,0,Deadbuoy,0,Bachelor Degree,9,0.72
+45,male,Government Employee,Jayapura,"8,418,291",1,0,Moonsilk,1,Bachelor Degree,8,0.73
+26,male,Employee,Padang,"4,253,789",1,1,Merpati,1,Senior High School,6,0.82
+40,male,Employee,Surabaya,"12,212,590",1,1,Deadbuoy,0,Bachelor Degree,6,0.68
+41,female,Government Employee,Mataram,"16,261,384",1,0,Moonsilk,0,Senior High School,9,0.58
+50,female,Government Employee,Banjarmasin,"8,870,617",1,0,Moonsilk,0,Bachelor Degree,3,0.55
+44,male,Government Employee,Semarang,"4,789,839",1,0,Merpati,0,Bachelor Degree,7,0.65
+35,male,Employee,Pontianak,"7,933,885",1,0,Deadbuoy,1,Bachelor Degree,7,0.62
+39,male,Government Employee,Banjarmasin,"3,863,152",1,0,Deadbuoy,1,Magister Degree,3,0.61
+32,male,Employee,Yogyakarta,"6,024,409",1,0,Deadbuoy,0,Senior High School,9,0.47
+51,female,Employee,Tanjungselor,"14,238,748",1,0,Shoulder & Head,1,Bachelor Degree,6,0.68
+48,male,Employee,Gorontalo,"10,449,718",1,0,Moonsilk,0,Bachelor Degree,3,0.49
+42,female,Government Employee,Kendari,"7,197,661",1,0,Deadbuoy,1,Bachelor Degree,6,0.63
+58,male,Government Employee,Kupang,"6,765,870",1,0,Shoulder & Head,0,Senior High School,3,0.69
+37,male,Employee,Semarang,"9,027,858",1,0,Shoulder & Head,0,Magister Degree,4,0.51
+39,male,Government Employee,Serang,"8,051,074",1,0,Moonsilk,1,Bachelor Degree,2,0.49
+36,male,Government Employee,Jakarta,"8,786,988",1,0,Moonsilk,1,Bachelor Degree,10,0.67
+37,male,Government Employee,Ambon,"13,189,329",1,0,Moonsilk,1,Senior High School,2,0.57
+28,male,Employee,Jakarta,"7,584,378",1,0,Deadbuoy,0,Junior High School,7,0.41
+39,male,Employee,Bandung,"4,120,172",1,0,Shoulder & Head,0,Bachelor Degree,10,0.46
+40,female,Employee,Palangkaraya,"9,116,658",1,0,Deadbuoy,1,Bachelor Degree,4,0.43
+34,male,Employee,Serang,"8,404,229",1,0,Moonsilk,0,Senior High School,10,0.47
+35,male,Employee,Kendari,"15,006,094",1,0,Moonsilk,1,Bachelor Degree,6,0.53
+49,female,Government Employee,Serang,"4,732,685",1,0,Moonsilk,0,Senior High School,4,0.49
+42,male,Employee,Banda Lampung,"14,279,172",1,0,Shoulder & Head,0,Bachelor Degree,8,0.59
+38,male,Government Employee,Banda Aceh,"26,517,176",1,0,Pantone,0,Junior High School,10,0.61
+48,male,Jobless,Mataram,"15,454,452",1,0,Pantone,0,Bachelor Degree,7,0.92
+42,male,Government Employee,Serang,"7,557,606",1,0,Moonsilk,0,Junior High School,5,0.62
+38,male,Government Employee,Kupang,"6,426,999",1,0,Merpati,1,Bachelor Degree,1,0.48
+39,male,Government Employee,Kendari,"16,773,549",1,0,Merpati,0,Bachelor Degree,10,0.58
+42,male,Government Employee,Tanjung Pinang,"8,859,342",1,0,Deadbuoy,1,Bachelor Degree,2,0.69
+47,female,Employee,Bengkulu,"16,445,022",1,1,Deadbuoy,0,Bachelor Degree,5,0.58
+24,male,Employee,Banda Aceh,"5,351,221",1,0,Shoulder & Head,1,Senior High School,4,0.53
+41,male,Employee,Pekanbaru,"9,771,083",1,0,Moonsilk,1,Bachelor Degree,9,0.69
+41,male,Employee,Yogyakarta,"6,177,991",1,0,Shoulder & Head,1,Senior High School,4,0.61
+31,male,Government Employee,Kendari,"4,584,518",1,1,Shoulder & Head,1,Senior High School,8,0.92
+40,male,Employee,Mataram,"10,872,487",1,0,Moonsilk,0,Bachelor Degree,4,0.37
+53,male,Government Employee,Tanjungselor,"11,911,848",1,0,Deadbuoy,0,Bachelor Degree,6,0.73
+48,male,Government Employee,Semarang,"3,488,097",1,0,Shoulder & Head,0,Bachelor Degree,4,0.55
+34,male,Employee,Yogyakarta,"10,824,755",1,1,Shoulder & Head,1,Magister Degree,4,0.74
+31,female,Jobless,Serang,"11,120,496",1,0,Shoulder & Head,0,Bachelor Degree,8,0.67
+30,male,Employee,Semarang,"15,441,363",1,0,Merpati,0,Bachelor Degree,7,0.49
+22,female,Employee,Bandung,"15,531,664",1,0,Deadbuoy,0,Bachelor Degree,2,0.23
+41,female,Employee,Surabaya,"5,206,776",1,1,Shoulder & Head,0,Bachelor Degree,9,0.69
+46,male,Government Employee,Padang,"14,283,311",1,0,Shoulder & Head,1,Bachelor Degree,3,0.61
+24,female,Employee,Makassar,"8,511,489",1,1,Deadbuoy,1,Bachelor Degree,2,0.60
+35,male,Employee,Ambon,"5,118,105",1,0,Pantone,1,Junior High School,6,0.48
+40,female,Employee,Banda Aceh,"6,772,422",1,1,Shoulder & Head,1,Bachelor Degree,9,0.67
+43,male,Government Employee,Surabaya,"7,264,258",1,0,Deadbuoy,1,Bachelor Degree,6,0.77
+33,male,Employee,Yogyakarta,"10,125,266",1,1,Deadbuoy,0,Bachelor Degree,10,0.66
+47,male,Employee,Jambi,"7,533,860",1,0,Merpati,0,Senior High School,4,0.48
+38,male,Government Employee,Semarang,"7,782,356",1,0,Deadbuoy,1,Senior High School,2,0.54
+40,male,Employee,Kendari,"7,115,947",1,0,Pantone,0,Junior High School,1,0.28
+28,male,Government Employee,Makassar,"7,753,853",1,0,Merpati,0,Bachelor Degree,4,0.43
+41,male,Government Employee,Pekanbaru,"8,514,817",1,0,Deadbuoy,0,Senior High School,1,0.58
+36,male,Government Employee,Yogyakarta,"5,932,166",1,0,Shoulder & Head,0,Bachelor Degree,8,0.61
+61,male,Government Employee,Jambi,"7,126,739",1,1,Deadbuoy,1,Bachelor Degree,10,1.00
+27,female,Employee,Jayapura,"9,147,744",1,0,Shoulder & Head,1,Bachelor Degree,2,0.36
+22,female,Employee,Bengkulu,"10,937,139",1,1,Deadbuoy,0,Bachelor Degree,6,0.52
+40,female,Government Employee,Serang,"6,001,280",1,0,Pantone,1,Bachelor Degree,5,0.46
+30,female,Government Employee,Mataram,"6,368,911",1,0,Shoulder & Head,1,Senior High School,10,0.53
+36,male,Government Employee,Semarang,"9,059,393",1,0,Moonsilk,1,Senior High School,1,0.55
+35,male,Government Employee,Yogyakarta,"3,849,106",1,1,Merpati,0,Bachelor Degree,8,0.77
+37,male,Government Employee,Tanjung Pinang,"15,312,921",1,0,Deadbuoy,0,Senior High School,7,0.51
+46,female,Employee,Surabaya,"9,958,787",1,0,Pantone,1,Bachelor Degree,8,0.54
+55,male,Employee,Serang,"9,198,852",1,0,Shoulder & Head,0,Senior High School,2,0.59
+40,male,Government Employee,Kupang,"5,358,217",1,0,Merpati,0,Bachelor Degree,4,0.53
+28,female,Government Employee,Pangkalpinang,"13,099,584",1,0,Shoulder & Head,0,Elementary School,4,0.48
+30,male,Government Employee,Jakarta,"12,911,544",1,0,Shoulder & Head,1,Magister Degree,2,0.54
+46,male,Government Employee,Ambon,"6,403,922",1,0,Moonsilk,1,Senior High School,2,0.72
+46,male,Employee,Samarinda,"11,802,197",1,0,Deadbuoy,0,Bachelor Degree,5,0.65
+51,male,Government Employee,Banda Lampung,"16,895,546",1,1,Shoulder & Head,1,Junior High School,2,0.95
+41,female,Government Employee,Denpasar,"9,633,254",1,0,Moonsilk,0,Bachelor Degree,3,0.53
+68,male,Government Employee,Sofifi,"21,294,016",1,1,Deadbuoy,1,Bachelor Degree,1,0.93
+19,female,Government Employee,Bengkulu,"11,730,885",0,0,Deadbuoy,0,Senior High School,6,0.32
+41,female,Government Employee,Banda Lampung,"3,606,924",1,0,Moonsilk,1,Bachelor Degree,8,0.69
+41,male,Employee,Tanjung Pinang,"8,146,062",1,0,Moonsilk,1,Senior High School,8,0.64
+50,female,Employee,Banjarmasin,"4,378,478",1,1,Deadbuoy,1,Senior High School,1,0.55
+52,male,Employee,Sofifi,"9,087,124",1,0,Moonsilk,1,Bachelor Degree,9,0.89
+31,female,Government Employee,Denpasar,"8,414,011",1,0,Merpati,1,Bachelor Degree,4,0.53
+38,male,Employee,Banda Lampung,"9,936,238",1,0,Deadbuoy,0,Bachelor Degree,8,0.38
+39,male,Employee,Bengkulu,"11,117,769",1,0,Shoulder & Head,0,Junior High School,4,0.34
+28,male,Government Employee,Pontianak,"10,877,031",1,0,Merpati,1,Bachelor Degree,4,0.60
+30,male,Employee,Pangkalpinang,"5,740,664",1,0,Pantone,0,Senior High School,9,0.46
+35,male,Employee,Tanjung Pinang,"3,886,150",1,0,Shoulder & Head,1,Bachelor Degree,4,0.50
+44,male,Employee,Gorontalo,"11,150,838",1,1,Deadbuoy,0,Bachelor Degree,7,0.79
+56,male,Government Employee,Surabaya,"10,012,489",1,0,Shoulder & Head,0,Bachelor Degree,3,0.64
+39,male,Government Employee,Sofifi,"15,245,219",1,0,Moonsilk,1,Junior High School,6,0.69
+39,female,Government Employee,Kendari,"5,128,190",1,0,Merpati,0,Senior High School,2,0.39
+21,male,Employee,Banda Lampung,"8,894,335",1,0,Shoulder & Head,0,Junior High School,3,0.41
+31,female,Employee,Mamuju,"7,506,534",1,0,Moonsilk,0,Bachelor Degree,3,0.24
+39,male,Jobless,Jakarta,"6,888,081",1,0,Merpati,0,Bachelor Degree,6,0.72
+24,male,Jobless,Mataram,"8,838,831",1,1,Shoulder & Head,1,Senior High School,10,1.00
+31,male,Employee,Mamuju,"7,280,405",1,0,Deadbuoy,1,Bachelor Degree,9,0.59
+46,male,Government Employee,Bandung,"9,853,854",1,1,Pantone,0,Senior High School,1,0.71
+29,female,Employee,Sofifi,"5,087,866",1,0,Deadbuoy,0,Bachelor Degree,9,0.42
+32,female,Government Employee,Pontianak,"10,905,430",1,0,Moonsilk,1,Junior High School,9,0.65
+41,male,Government Employee,Palu,"4,764,598",1,0,Moonsilk,0,Bachelor Degree,6,0.61
+43,female,Employee,Samarinda,"6,449,058",1,0,Pantone,1,Bachelor Degree,2,0.43
+45,male,Government Employee,Serang,"10,426,087",1,0,Moonsilk,0,Bachelor Degree,3,0.52
+58,male,Government Employee,Denpasar,"24,705,696",1,0,Merpati,1,Bachelor Degree,2,0.70
+47,female,Employee,Mataram,"6,737,047",1,1,Shoulder & Head,0,Bachelor Degree,4,0.55
+38,male,Employee,Pangkalpinang,"12,377,249",1,0,Moonsilk,0,Senior High School,2,0.36
+44,male,Jobless,Samarinda,"23,281,858",1,0,Shoulder & Head,1,Bachelor Degree,7,0.97
+41,female,Government Employee,Serang,"12,408,944",1,0,Pantone,0,Senior High School,9,0.64
+39,male,Employee,Banda Lampung,"6,192,590",1,0,Deadbuoy,0,Bachelor Degree,5,0.38
+31,female,Government Employee,Ambon,"4,165,578",1,0,Pantone,1,Bachelor Degree,7,0.54
+55,male,Government Employee,Ambon,"6,149,349",1,1,Shoulder & Head,0,Bachelor Degree,3,0.79
+43,male,Government Employee,Mamuju,"6,278,635",1,0,Moonsilk,1,Bachelor Degree,8,0.75
+35,male,Employee,Tanjungselor,"9,081,954",1,0,Deadbuoy,0,Bachelor Degree,9,0.39
+27,male,Government Employee,Tanjung Pinang,"18,089,174",1,1,Pantone,1,Senior High School,2,0.74
+36,male,Employee,Palu,"6,602,707",1,0,Pantone,1,Bachelor Degree,10,0.56
+55,male,Government Employee,Ambon,"9,371,410",1,0,Merpati,0,Bachelor Degree,9,0.78
+35,female,Employee,Manokwari,"3,287,377",1,0,Merpati,1,Bachelor Degree,4,0.39
+44,male,Employee,Mataram,"10,368,012",1,0,Pantone,0,Bachelor Degree,7,0.59
+45,male,Government Employee,Jayapura,"5,936,461",1,0,Pantone,1,Bachelor Degree,1,0.66
+36,male,Employee,Kendari,"8,884,217",1,0,Shoulder & Head,1,Bachelor Degree,4,0.49
+39,male,Government Employee,Palu,"8,644,890",1,0,Merpati,0,Bachelor Degree,6,0.49
+40,male,Government Employee,Padang,"10,849,466",1,0,Merpati,0,Senior High School,7,0.57
+15,female,Employee,Palembang,"3,261,147",0,0,Deadbuoy,1,Junior High School,1,0.23
+52,male,Employee,Kupang,"7,797,164",1,0,Pantone,1,Bachelor Degree,4,0.59
+43,male,Government Employee,Jambi,"7,531,140",1,1,Shoulder & Head,1,Bachelor Degree,3,0.88
+39,male,Employee,Tanjungselor,"5,442,195",1,0,Merpati,0,Bachelor Degree,8,0.53
+57,male,Employee,Pontianak,"5,392,000",1,0,Merpati,0,Senior High School,3,0.49
+47,male,Government Employee,Banjarmasin,"9,298,862",1,1,Shoulder & Head,0,Bachelor Degree,4,0.82
+48,female,Employee,Gorontalo,"2,638,810",1,0,Deadbuoy,0,Bachelor Degree,2,0.38
+46,male,Employee,Mataram,"6,224,247",1,1,Merpati,1,Senior High School,1,0.79
+46,male,Government Employee,Medan,"5,060,405",1,0,Moonsilk,0,Bachelor Degree,9,0.61
+45,male,Employee,Palu,"4,188,242",1,0,Pantone,1,Bachelor Degree,1,0.48
+39,male,Employee,Banjarmasin,"7,452,354",1,1,Pantone,0,Bachelor Degree,2,0.53
+41,female,Employee,Semarang,"4,125,257",1,0,Moonsilk,1,Bachelor Degree,10,0.64
+41,male,Employee,Kupang,"12,611,758",1,0,Deadbuoy,1,Senior High School,2,0.53
+28,male,Employee,Pekanbaru,"13,304,463",1,0,Merpati,0,Bachelor Degree,2,0.34
+29,male,Government Employee,Bandung,"5,329,797",1,1,Deadbuoy,0,Bachelor Degree,5,0.66
+28,female,Government Employee,Tanjung Pinang,"5,270,737",1,0,Shoulder & Head,1,Bachelor Degree,6,0.46
+22,male,Government Employee,Jayapura,"3,816,687",1,0,Merpati,1,Bachelor Degree,4,0.59
+51,male,Government Employee,Gorontalo,"12,093,461",1,0,Deadbuoy,0,Bachelor Degree,8,0.75
+43,male,Employee,Manokwari,"18,163,707",1,0,Shoulder & Head,0,Bachelor Degree,7,0.55
+60,female,Government Employee,Palangkaraya,"5,467,751",1,0,Moonsilk,1,Bachelor Degree,4,0.72
+35,female,Jobless,Kendari,"6,687,542",1,0,Deadbuoy,0,Senior High School,4,0.62
+44,female,Government Employee,Pangkalpinang,"5,853,929",1,0,Deadbuoy,1,Doctoral Degree,10,0.71
+42,male,Government Employee,Pontianak,"14,830,350",1,1,Deadbuoy,1,Bachelor Degree,9,0.97
+40,male,Government Employee,Padang,"8,156,263",1,0,Shoulder & Head,1,Junior High School,8,0.72
+30,male,Jobless,Yogyakarta,"6,757,731",1,0,Deadbuoy,0,Bachelor Degree,5,0.76
+38,male,Jobless,Sofifi,"4,606,849",1,0,Moonsilk,1,Senior High School,10,1.00
+35,female,Employee,Pekanbaru,"10,341,548",1,0,Merpati,1,Bachelor Degree,9,0.47
+47,male,Government Employee,Mamuju,"10,809,984",1,1,Deadbuoy,0,Senior High School,5,0.89
+50,male,Government Employee,Palu,"5,344,098",1,0,Pantone,0,Magister Degree,3,0.49
+35,female,Jobless,Surabaya,"5,303,974",1,0,Pantone,1,Senior High School,10,0.79
+71,male,Government Employee,Yogyakarta,"4,679,450",1,0,Merpati,0,Senior High School,5,0.66
+48,male,Government Employee,Jakarta,"4,809,047",1,0,Moonsilk,0,Senior High School,2,0.57
+44,male,Employee,Denpasar,"4,882,454",1,0,Deadbuoy,1,Magister Degree,6,0.60
+46,male,Employee,Pekanbaru,"5,648,629",1,0,Shoulder & Head,0,Senior High School,6,0.57
+35,female,Employee,Pangkalpinang,"11,714,934",1,0,Deadbuoy,0,Bachelor Degree,7,0.47
+41,male,Employee,Bengkulu,"4,366,320",1,0,Pantone,1,Bachelor Degree,9,0.63
+49,male,Government Employee,Padang,"5,023,506",1,0,Pantone,1,Bachelor Degree,2,0.68
+37,female,Employee,Semarang,"3,764,137",1,0,Merpati,0,Elementary School,10,0.41
+26,male,Government Employee,Banjarmasin,"6,641,228",1,0,Shoulder & Head,1,Bachelor Degree,7,0.63
+44,male,Employee,Palembang,"7,965,437",1,1,Shoulder & Head,1,Magister Degree,4,0.70
+50,male,Government Employee,Mamuju,"3,410,718",1,0,Pantone,1,Bachelor Degree,6,0.66
+65,male,Jobless,Manokwari,"7,664,746",1,0,Merpati,0,Bachelor Degree,2,0.91
+35,male,Employee,Gorontalo,"9,046,182",1,0,Moonsilk,0,Senior High School,5,0.38
+29,male,Employee,Palangkaraya,"6,152,449",1,0,Shoulder & Head,0,Magister Degree,9,0.50
+38,male,Employee,Serang,"4,628,778",1,1,Moonsilk,0,Bachelor Degree,9,0.71
+43,male,Employee,Serang,"4,506,939",1,0,Moonsilk,1,Bachelor Degree,9,0.70
+56,female,Government Employee,Bandung,"5,072,318",1,0,Deadbuoy,1,Senior High School,3,0.72
+45,male,Government Employee,Kupang,"4,041,015",1,0,Deadbuoy,1,Bachelor Degree,2,0.65
+40,female,Employee,Pekanbaru,"2,793,387",1,1,Deadbuoy,0,Senior High School,6,0.43
+32,female,Government Employee,Yogyakarta,"11,292,946",1,0,Shoulder & Head,0,Senior High School,8,0.42
+55,male,Employee,Palu,"7,281,333",1,0,Deadbuoy,1,Junior High School,6,0.73
+20,male,Government Employee,Yogyakarta,"5,531,101",1,0,Shoulder & Head,1,Senior High School,4,0.53
+40,male,Employee,Palangkaraya,"13,706,446",1,0,Deadbuoy,0,Senior High School,3,0.37
+34,male,Employee,Yogyakarta,"8,850,482",1,0,Moonsilk,0,Bachelor Degree,8,0.52
+64,female,Employee,Pontianak,"5,221,350",1,1,Merpati,1,Bachelor Degree,6,0.85
+49,male,Government Employee,Samarinda,"9,778,406",1,0,Shoulder & Head,1,Bachelor Degree,5,0.66
+47,male,Jobless,Mamuju,"2,449,406",1,0,Pantone,1,Bachelor Degree,7,0.98
+36,male,Jobless,Semarang,"3,373,177",1,0,Merpati,0,Bachelor Degree,7,0.75
+33,male,Employee,Semarang,"19,653,693",1,0,Pantone,0,Senior High School,10,0.55
+7,male,Employee,Samarinda,"10,588,331",0,0,Pantone,0,Magister Degree,6,0.31
+34,female,Government Employee,Pontianak,"6,673,028",1,1,Pantone,0,Bachelor Degree,4,0.55
+40,female,Employee,Ambon,"8,890,012",1,0,Merpati,0,Bachelor Degree,8,0.45
+46,female,Government Employee,Manokwari,"4,344,115",1,0,Shoulder & Head,1,Bachelor Degree,10,0.77
+26,male,Employee,Yogyakarta,"8,974,682",1,0,Pantone,1,Senior High School,1,0.41
+23,female,Government Employee,Manado,"4,895,794",1,0,Moonsilk,0,Magister Degree,8,0.48
+37,male,Government Employee,Ambon,"12,976,093",1,0,Deadbuoy,0,Bachelor Degree,9,0.56
+32,male,Government Employee,Kupang,"16,788,876",1,0,Moonsilk,1,Senior High School,10,0.74
+50,male,Government Employee,Makassar,"3,236,934",1,1,Shoulder & Head,0,Bachelor Degree,1,0.71
+50,female,Government Employee,Mamuju,"5,722,414",1,0,Shoulder & Head,1,Doctoral Degree,9,0.66
+35,male,Employee,Bengkulu,"21,410,575",1,0,Pantone,0,Magister Degree,8,0.43
+11,male,Jobless,Sofifi,"5,150,022",0,1,Merpati,0,Bachelor Degree,4,0.78
+37,male,Employee,Banjarmasin,"6,258,261",1,1,Deadbuoy,0,Bachelor Degree,2,0.50
+19,female,Employee,Semarang,"25,327,614",0,0,Shoulder & Head,1,Junior High School,7,0.32
+67,male,Government Employee,Tanjungselor,"6,100,811",1,1,Deadbuoy,1,Magister Degree,9,1.00
+38,male,Employee,Kendari,"7,531,995",1,0,Pantone,0,Bachelor Degree,10,0.45
+36,female,Government Employee,Samarinda,"8,033,247",1,1,Pantone,1,Bachelor Degree,1,0.62
+31,male,Government Employee,Bandung,"10,174,208",1,0,Merpati,1,Bachelor Degree,5,0.65
+28,female,Government Employee,Kupang,"11,804,698",1,1,Moonsilk,0,Elementary School,3,0.64
+40,female,Jobless,Ambon,"4,664,584",1,1,Shoulder & Head,0,Bachelor Degree,3,0.82
+29,male,Government Employee,Kendari,"9,191,313",1,1,Pantone,1,Senior High School,5,0.80
+39,male,Employee,Banda Lampung,"5,148,442",1,0,Merpati,0,Senior High School,4,0.42
+36,male,Government Employee,Semarang,"5,517,408",1,0,Pantone,0,Senior High School,2,0.43
+46,male,Employee,Serang,"14,245,911",1,0,Deadbuoy,0,Bachelor Degree,6,0.49
+20,female,Employee,Semarang,"10,348,094",1,0,Deadbuoy,1,Bachelor Degree,6,0.43
+49,female,Employee,Jayapura,"10,352,162",1,1,Shoulder & Head,0,Senior High School,5,0.61
+48,male,Employee,Pontianak,"3,028,583",1,0,Merpati,0,Doctoral Degree,8,0.50
+38,female,Government Employee,Padang,"12,085,251",1,1,Deadbuoy,0,Bachelor Degree,6,0.66
+34,male,Government Employee,Pangkalpinang,"5,066,253",1,0,Merpati,0,Senior High School,1,0.45
+30,male,Government Employee,Mamuju,"7,346,545",1,0,Moonsilk,0,Senior High School,5,0.55
+26,female,Employee,Sofifi,"6,427,802",1,0,Deadbuoy,0,Bachelor Degree,6,0.44
+49,female,Government Employee,Tanjungselor,"10,870,033",1,1,Deadbuoy,0,Bachelor Degree,8,0.81
+44,male,Jobless,Tanjung Pinang,"10,665,621",1,0,Moonsilk,1,Bachelor Degree,1,0.90
+51,female,Government Employee,Serang,"11,707,450",1,0,Shoulder & Head,1,Bachelor Degree,4,0.62
+34,male,Employee,Manado,"10,433,084",1,0,Shoulder & Head,0,Senior High School,4,0.36
+34,male,Government Employee,Serang,"7,212,540",1,0,Pantone,1,Senior High School,10,0.75
+40,female,Employee,Pekanbaru,"10,077,323",1,1,Merpati,1,Bachelor Degree,4,0.60
+27,male,Employee,Palembang,"4,839,840",1,0,Shoulder & Head,1,Bachelor Degree,2,0.47
+35,male,Employee,Tanjung Pinang,"14,377,961",1,0,Deadbuoy,1,Bachelor Degree,5,0.53
+28,female,Employee,Sofifi,"14,376,633",1,0,Merpati,0,Bachelor Degree,3,0.28
+52,male,Employee,Padang,"16,982,749",1,1,Pantone,0,Bachelor Degree,2,0.77
+21,male,Employee,Denpasar,"6,786,747",1,1,Deadbuoy,0,Bachelor Degree,7,0.59
+52,male,Government Employee,Manado,"11,700,123",1,0,Moonsilk,1,Senior High School,7,0.81
+46,female,Government Employee,Bengkulu,"8,199,091",1,0,Merpati,1,Senior High School,6,0.57
+38,male,Employee,Mataram,"6,750,998",1,0,Shoulder & Head,1,Senior High School,2,0.51
+32,female,Employee,Denpasar,"6,392,744",1,0,Shoulder & Head,1,Junior High School,2,0.28
+36,female,Government Employee,Bengkulu,"11,813,907",1,0,Shoulder & Head,0,Senior High School,1,0.34
+57,female,Employee,Samarinda,"5,829,256",1,0,Merpati,0,Junior High School,6,0.51
+53,male,Government Employee,Denpasar,"7,409,044",1,0,Shoulder & Head,0,Bachelor Degree,2,0.70
+51,male,Government Employee,Palu,"10,675,646",1,0,Moonsilk,0,Bachelor Degree,7,0.74
+41,female,Government Employee,Yogyakarta,"8,482,757",1,0,Pantone,1,Bachelor Degree,1,0.53
+27,male,Employee,Samarinda,"9,326,974",1,0,Shoulder & Head,0,Bachelor Degree,3,0.39
+49,female,Government Employee,Manokwari,"5,441,389",1,0,Moonsilk,1,Senior High School,2,0.52
+35,male,Employee,Serang,"6,570,901",1,0,Shoulder & Head,1,Senior High School,6,0.49
+39,male,Government Employee,Palu,"6,001,091",1,0,Shoulder & Head,1,Bachelor Degree,2,0.49
+56,male,Government Employee,Semarang,"12,922,162",1,0,Moonsilk,0,Bachelor Degree,8,0.80
+51,male,Employee,Medan,"8,943,416",1,1,Merpati,1,Bachelor Degree,3,0.84
+28,male,Government Employee,Jambi,"13,157,991",1,0,Deadbuoy,1,Senior High School,9,0.69
+33,male,Government Employee,Gorontalo,"8,238,433",1,0,Merpati,1,Junior High School,3,0.50
+35,male,Employee,Jambi,"8,715,200",1,0,Moonsilk,0,Bachelor Degree,3,0.38
+37,female,Employee,Pangkalpinang,"14,463,661",1,0,Moonsilk,0,Bachelor Degree,7,0.42
+52,male,Employee,Mamuju,"4,668,502",1,1,Deadbuoy,1,Bachelor Degree,4,0.89
+51,male,Government Employee,Sofifi,"3,585,954",1,0,Merpati,1,Bachelor Degree,9,0.88
+46,female,Employee,Mamuju,"11,009,460",1,0,Merpati,1,Elementary School,10,0.58
+60,male,Employee,Kupang,"3,351,703",1,0,Deadbuoy,0,Senior High School,1,0.55
+39,female,Government Employee,Medan,"6,325,235",1,1,Merpati,0,Junior High School,1,0.53
+42,female,Government Employee,Jakarta,"14,427,144",1,1,Deadbuoy,1,Bachelor Degree,4,0.93
+37,male,Government Employee,Manado,"9,229,220",1,0,Shoulder & Head,0,Bachelor Degree,2,0.43
+41,male,Employee,Banda Aceh,"8,164,280",1,0,Shoulder & Head,0,Bachelor Degree,1,0.44
+34,male,Employee,Kupang,"4,228,945",1,0,Shoulder & Head,0,Bachelor Degree,8,0.52
+36,female,Employee,Palangkaraya,"11,258,666",1,0,Deadbuoy,1,Bachelor Degree,6,0.44
+22,female,Employee,Sofifi,"11,184,661",1,0,Shoulder & Head,0,Bachelor Degree,5,0.29
+35,female,Employee,Medan,"14,545,613",1,1,Merpati,1,Senior High School,9,0.65
+29,female,Government Employee,Denpasar,"11,273,815",1,1,Shoulder & Head,1,Magister Degree,8,0.80
+50,male,Employee,Surabaya,"6,210,822",1,0,Deadbuoy,0,Bachelor Degree,3,0.51
+31,male,Government Employee,Jakarta,"16,052,166",1,0,Merpati,0,Junior High School,5,0.54
+34,male,Government Employee,Semarang,"12,531,037",1,1,Shoulder & Head,1,Bachelor Degree,3,0.89
+40,male,Employee,Jambi,"9,262,392",1,0,Moonsilk,1,Senior High School,8,0.65
+52,female,Government Employee,Pontianak,"9,295,881",1,0,Pantone,1,Bachelor Degree,2,0.70
+41,male,Government Employee,Medan,"6,529,120",1,0,Pantone,0,Bachelor Degree,3,0.52
+23,female,Employee,Palangkaraya,"12,381,563",1,0,Shoulder & Head,0,Senior High School,9,0.36
+34,male,Jobless,Manado,"4,875,231",1,0,Deadbuoy,0,Bachelor Degree,6,0.85
+27,male,Government Employee,Manado,"8,414,030",1,1,Shoulder & Head,1,Bachelor Degree,6,0.85
+34,male,Employee,Pontianak,"11,340,251",1,0,Merpati,1,Bachelor Degree,7,0.60
+57,male,Employee,Yogyakarta,"9,077,912",1,0,Pantone,0,Bachelor Degree,7,0.63
+43,female,Government Employee,Jayapura,"6,623,873",1,0,Pantone,1,Senior High School,10,0.69
+30,male,Employee,Tanjungselor,"7,227,838",1,0,Pantone,1,Junior High School,1,0.48
+35,male,Government Employee,Palembang,"11,686,879",1,0,Shoulder & Head,0,Senior High School,9,0.58
+24,male,Government Employee,Gorontalo,"11,525,719",1,0,Moonsilk,0,Bachelor Degree,10,0.70
+31,male,Government Employee,Bandung,"5,089,671",1,0,Shoulder & Head,1,Bachelor Degree,6,0.57
+36,male,Employee,Mataram,"4,553,696",1,0,Moonsilk,1,Bachelor Degree,6,0.54
+41,male,Government Employee,Mataram,"7,437,935",1,0,Deadbuoy,1,Magister Degree,4,0.72
+27,female,Employee,Samarinda,"6,507,106",1,0,Moonsilk,0,Bachelor Degree,8,0.29
+47,male,Government Employee,Bengkulu,"6,513,421",1,0,Merpati,0,Bachelor Degree,5,0.60
+23,male,Government Employee,Bengkulu,"12,869,213",1,0,Merpati,0,Magister Degree,6,0.48
+35,male,Government Employee,Sofifi,"7,436,017",1,0,Deadbuoy,0,Magister Degree,1,0.49
+30,female,Government Employee,Sofifi,"6,933,830",1,0,Pantone,0,Senior High School,3,0.42
+55,male,Government Employee,Jakarta,"5,202,435",1,0,Deadbuoy,0,Magister Degree,8,0.74
+69,male,Government Employee,Kendari,"9,179,776",1,0,Pantone,1,Magister Degree,7,0.83
+48,male,Employee,Kendari,"16,764,755",1,0,Moonsilk,0,Bachelor Degree,10,0.57
+59,male,Employee,Banda Lampung,"3,921,074",1,1,Merpati,1,Senior High School,3,0.90
+26,male,Employee,Semarang,"7,734,340",1,0,Moonsilk,1,Bachelor Degree,6,0.54
+29,male,Employee,Gorontalo,"3,841,170",1,0,Deadbuoy,1,Bachelor Degree,1,0.36
+20,male,Employee,Samarinda,"5,154,000",1,1,Deadbuoy,1,Bachelor Degree,4,0.64
+28,female,Employee,Bengkulu,"5,909,705",1,0,Pantone,0,Senior High School,8,0.35
+49,female,Employee,Jambi,"12,319,056",1,1,Deadbuoy,0,Bachelor Degree,6,0.56
+47,male,Employee,Palu,"10,420,266",1,1,Merpati,1,Bachelor Degree,7,0.92
+22,female,Government Employee,Palu,"3,320,212",1,0,Pantone,0,Senior High School,6,0.44
+41,male,Government Employee,Palangkaraya,"3,749,994",1,1,Moonsilk,1,Bachelor Degree,7,0.99
+38,female,Government Employee,Tanjung Pinang,"9,319,588",1,0,Pantone,0,Bachelor Degree,4,0.33
+31,male,Employee,Pekanbaru,"13,558,104",1,1,Pantone,1,Senior High School,7,0.73
+38,female,Employee,Medan,"6,624,481",1,1,Merpati,0,Bachelor Degree,9,0.60
+33,male,Government Employee,Mataram,"11,873,853",1,0,Deadbuoy,1,Bachelor Degree,4,0.51
+31,female,Employee,Jakarta,"18,723,762",1,0,Shoulder & Head,0,Bachelor Degree,6,0.36
+54,female,Employee,Mataram,"9,961,777",1,1,Moonsilk,1,Junior High School,1,0.74
+40,male,Government Employee,Ambon,"6,346,052",1,0,Shoulder & Head,1,Bachelor Degree,8,0.63
+45,male,Employee,Sofifi,"4,533,411",1,0,Merpati,1,Bachelor Degree,6,0.55
+45,female,Employee,Manado,"7,763,536",1,1,Merpati,0,Bachelor Degree,9,0.61
+32,male,Government Employee,Mataram,"6,995,409",1,0,Shoulder & Head,1,Bachelor Degree,2,0.46
+45,male,Government Employee,Palembang,"15,088,590",1,0,Shoulder & Head,0,Bachelor Degree,2,0.58
+62,female,Employee,Mamuju,"6,698,482",1,0,Pantone,0,Bachelor Degree,8,0.51
+41,male,Employee,Serang,"5,827,169",1,0,Moonsilk,1,Bachelor Degree,7,0.61
+42,male,Government Employee,Manado,"7,629,208",1,0,Moonsilk,1,Bachelor Degree,10,0.73
+35,female,Employee,Pekanbaru,"11,577,449",1,1,Moonsilk,1,Bachelor Degree,10,0.70
+19,male,Government Employee,Banda Aceh,"2,963,921",0,1,Pantone,1,Magister Degree,10,0.81
+43,male,Government Employee,Palangkaraya,"19,568,448",1,0,Shoulder & Head,1,Senior High School,5,0.76
+27,male,Government Employee,Jakarta,"12,932,849",1,1,Moonsilk,1,Bachelor Degree,5,0.87
+39,male,Employee,Manokwari,"11,825,769",1,0,Merpati,0,Junior High School,1,0.42
+27,male,Government Employee,Denpasar,"9,483,148",1,0,Shoulder & Head,0,Senior High School,10,0.64
+44,male,Government Employee,Yogyakarta,"4,859,962",1,1,Merpati,0,Bachelor Degree,8,0.84
+27,male,Jobless,Jayapura,"3,433,661",1,0,Merpati,0,Bachelor Degree,10,0.86
+50,male,Employee,Palembang,"4,575,737",1,0,Deadbuoy,1,Doctoral Degree,5,0.65
+40,female,Employee,Sofifi,"4,448,664",1,0,Pantone,1,Bachelor Degree,1,0.31
+50,male,Government Employee,Mataram,"5,934,172",1,0,Pantone,1,Bachelor Degree,1,0.63
+35,male,Government Employee,Bengkulu,"21,725,743",1,0,Moonsilk,0,Bachelor Degree,1,0.44
+37,female,Employee,Manokwari,"9,183,927",1,0,Pantone,0,Bachelor Degree,2,0.18
+40,male,Employee,Denpasar,"9,343,684",1,0,Merpati,1,Senior High School,7,0.49
+37,male,Government Employee,Bandung,"15,177,687",1,1,Shoulder & Head,1,Bachelor Degree,7,0.92
+49,female,Government Employee,Samarinda,"6,289,547",1,1,Deadbuoy,0,Bachelor Degree,3,0.74
+50,male,Government Employee,Bandung,"17,709,166",1,0,Pantone,0,Senior High School,4,0.57
+39,male,Employee,Serang,"12,761,448",1,1,Moonsilk,1,Senior High School,2,0.58
+56,male,Government Employee,Kupang,"4,347,359",1,0,Shoulder & Head,0,Bachelor Degree,4,0.74
+39,male,Government Employee,Denpasar,"9,640,310",1,0,Shoulder & Head,0,Magister Degree,9,0.58
+28,male,Employee,Kupang,"16,758,297",1,1,Pantone,0,Senior High School,3,0.55
+30,female,Employee,Manokwari,"7,199,467",1,0,Pantone,0,Junior High School,7,0.38
+46,male,Jobless,Manado,"7,298,243",1,0,Deadbuoy,0,Senior High School,3,0.81
+41,male,Employee,Manado,"12,478,322",1,0,Shoulder & Head,0,Junior High School,9,0.60
+34,female,Government Employee,Denpasar,"5,656,739",1,0,Moonsilk,0,Magister Degree,1,0.32
+38,female,Employee,Samarinda,"6,036,856",1,1,Deadbuoy,0,Bachelor Degree,3,0.47
+65,male,Government Employee,Jayapura,"6,981,446",1,0,Shoulder & Head,1,Senior High School,7,0.86
+45,female,Employee,Palu,"14,486,433",1,1,Pantone,0,Bachelor Degree,2,0.57
+47,male,Employee,Kupang,"13,265,162",1,1,Deadbuoy,0,Senior High School,5,0.76
+31,male,Employee,Denpasar,"11,168,415",1,0,Shoulder & Head,1,Bachelor Degree,4,0.38
+24,male,Employee,Pangkalpinang,"6,157,749",1,0,Merpati,0,Senior High School,8,0.48
+34,male,Employee,Kendari,"6,631,426",1,0,Shoulder & Head,0,Senior High School,1,0.24
+30,male,Government Employee,Banda Aceh,"3,669,597",1,0,Merpati,0,Bachelor Degree,4,0.43
+41,male,Employee,Palangkaraya,"6,151,078",1,0,Shoulder & Head,1,Elementary School,3,0.56
+62,male,Employee,Mamuju,"7,824,894",1,0,Deadbuoy,1,Senior High School,3,0.67
+25,male,Employee,Medan,"15,604,500",1,0,Deadbuoy,0,Bachelor Degree,4,0.47
+45,female,Jobless,Samarinda,"7,981,984",1,0,Merpati,0,Magister Degree,10,0.93
+35,female,Government Employee,Gorontalo,"10,192,787",1,0,Deadbuoy,1,Senior High School,1,0.36
+50,male,Government Employee,Bandung,"7,944,695",1,1,Pantone,0,Senior High School,2,0.68
+43,male,Government Employee,Kupang,"5,437,215",1,0,Pantone,0,Junior High School,4,0.60
+22,male,Government Employee,Pontianak,"6,503,650",1,0,Merpati,0,Bachelor Degree,5,0.51
+38,male,Government Employee,Bandung,"4,999,604",1,0,Moonsilk,0,Bachelor Degree,3,0.41
+48,male,Employee,Jakarta,"5,783,151",1,0,Deadbuoy,0,Bachelor Degree,10,0.55
+20,female,Government Employee,Banda Lampung,"6,024,866",1,0,Deadbuoy,0,Bachelor Degree,2,0.36
+40,male,Employee,Mamuju,"8,276,001",1,0,Pantone,0,Bachelor Degree,9,0.52
+37,male,Government Employee,Bengkulu,"9,104,456",1,1,Pantone,1,Senior High School,10,0.94
+33,male,Employee,Palu,"7,428,669",1,0,Moonsilk,1,Senior High School,9,0.60
+45,female,Employee,Banjarmasin,"9,570,892",1,0,Deadbuoy,0,Bachelor Degree,7,0.39
+37,female,Government Employee,Mamuju,"9,122,583",1,0,Merpati,1,Bachelor Degree,4,0.47
+21,male,Government Employee,Ambon,"10,027,043",1,0,Deadbuoy,0,Senior High School,4,0.51
+49,male,Government Employee,Jakarta,"11,188,811",1,1,Deadbuoy,1,Senior High School,10,1.00
+41,female,Government Employee,Semarang,"11,134,698",1,0,Pantone,1,Doctoral Degree,5,0.69
+46,male,Government Employee,Bengkulu,"8,513,277",1,0,Shoulder & Head,1,Senior High School,9,0.77
+38,female,Government Employee,Gorontalo,"17,199,651",1,0,Moonsilk,1,Bachelor Degree,6,0.61
+32,male,Employee,Mamuju,"16,928,800",1,0,Pantone,0,Bachelor Degree,5,0.41
+33,male,Employee,Makassar,"5,307,162",1,1,Moonsilk,0,Senior High School,6,0.64
+43,female,Government Employee,Padang,"9,076,086",1,0,Deadbuoy,1,Bachelor Degree,7,0.35
+42,male,Government Employee,Denpasar,"15,112,233",1,0,Shoulder & Head,0,Bachelor Degree,7,0.60
+35,male,Employee,Banjarmasin,"8,631,746",1,1,Moonsilk,1,Junior High School,4,0.75
+49,male,Government Employee,Mamuju,"4,808,915",1,0,Shoulder & Head,1,Magister Degree,6,0.64
